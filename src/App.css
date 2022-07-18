@@ -1,0 +1,5 @@
+@import "~antd/dist/antd.css";
+
+.logo .ant-typography {
+  margin-bottom: 0 !important;
+}
